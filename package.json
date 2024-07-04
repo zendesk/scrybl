@@ -24,17 +24,17 @@
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
-    "babel-eslint": "^8.0.3",
+    "babel-eslint": "^10.1.0",
     "babel-loader": "^7.1.2",
     "babel-plugin-add-module-exports": "^0.2.1",
     "babel-preset-env": "^1.6.1",
     "chai": "^4.1.2",
-    "cypress": "^2.1.0",
-    "eslint": "^4.13.1",
+    "cypress": "^13.13.0",
+    "eslint": "^9.6.0",
     "eslint-loader": "^1.9.0",
     "eslint-plugin-cypress": "^2.0.1",
-    "mocha": "^4.0.1",
-    "webpack": "^3.10.0",
-    "yargs": "^10.0.3"
+    "mocha": "^10.6.0",
+    "webpack": "^5.92.1",
+    "yargs": "^17.7.2"
   }
 }
